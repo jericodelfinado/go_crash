@@ -1,1 +1,1 @@
-# go_crash
+# Go Crash Course
